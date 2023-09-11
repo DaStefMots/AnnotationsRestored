@@ -1,77 +1,77 @@
 {
 	"name": {
-		"message": "Annotations Restored for YouTube™"
+		"message": "Αποκατεστημένα Σχόλια για το YouTube™"
 	},
 	"shortName": {
-		"message": "Annotations Restored"
+		"message": "Αποκατεστημένα Σχόλια"
 	},
 	"description": {
-		"message": "Bring annotation support back to YouTube™!"
+		"message": "Φέρτε την υποστήριξη σχόλιων πίσω στο YouTube™!"
 	},
 
 	"statusTextNoVideo": {
-		"message": "No video playing"
+		"message": " Δεν παίζει κανένα βίντεο"
 	},
 	"statusTextCheckingForVideo": {
-		"message": "Checking for annotations..."
+		"message": "Ελέγχοντας για σχόλια..."
 	},
 
 	"loadAnnotationText": {
-		"message": "Load Annotation File"
+		"message": "Φόρτωση Αρχείου Σχόλιου"
 	},
 	"manageCacheText": {
-		"message": "Manage Cache"
+		"message": "Διαχείριση προσωρινής μνήμης"
 	},
 
 	"annotationCountSingular": {
-		"message": "Annotation"
+		"message": "Σχόλιο"
 	},
 	"annotationCountPlural": {
-		"message": "Annotations"
+		"message": "Σχόλια"
 	},
 
 	"annotationTableType": {
-		"message": "Type"
+		"message": "Τύπος"
 	},
 	"annotationTableText": {
-		"message": "Text"
+		"message": "Κείμενο"
 	},
 	"annotationTableTime": {
-		"message": "Time"
+		"message": "Χρόνος"
 	},
 
 	"annotationNoText": {
-		"message": "No text"
+		"message": "Κανένα κείμενο"
 	},
 
 	"downloadButtonText": {
-		"message": "Download"
+		"message": "Κατέβασμα"
 	},
 
 	"missingAnnotationsHeader": {
-		"message": "Hmm. It looks like we don't have any annotations for this video."
+		"message": "Χμμ... Από ό,τι φαίνεται δεν έχουμε κάποια σχόλια για αυτό το βίντεο."
 	},
 	"missingAnnotationsText1": {
-		"message": "Have the annotation file?"
+		"message": "Έχεις το αρχείο σχόλιου;"
 	},
 	"missingAnnotationsText2": {
-		"message": "Send me an email at"
+		"message": "Στείλτε μου ένα email στο"
 	},
 
 	"donateButtonText": {
-		"message": "Buy me a coffee!"
+		"message": "Αγοράστε μου έναν καφέ!"
 	},
 
 	"manageCacheHeader": {
-		"message": "Manage Annotations Restored Cache"
+		"message": "Διαχείριση της προσωρινής μνήμης των Αποκατεστημένων Σχόλιων"
 	},
 	"manageCacheTotalSizeText": {
-		"message": "Total Size:"
+		"message": "Συνολικό μέγεθος:"
 	},
 	"manageCacheOpenButtonText": {
-		"message": "Open"
+		"message": "Άνοιγμα"
 	},
 	"manageCacheDeleteButtonText": {
-		"message": "Delete"
+		"message": "Διαγραφή"
 	}
 }
